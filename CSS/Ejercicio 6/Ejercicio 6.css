@@ -1,11 +1,17 @@
 div.Capa1 {
     width: 50%;
+    border: 3px solid black;
+    font-size: 100%;
 }
 
 div.Capa2 {
     width: 33%;
+    border: 3px solid red;
+    font-size: 120%;
 }
 
 div.Capa3 {
     width: 25%;
+    border: 3px solid blue;
+    font-size: 80%;
 }
