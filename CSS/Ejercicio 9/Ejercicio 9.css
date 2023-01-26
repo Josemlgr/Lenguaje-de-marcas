@@ -1,0 +1,39 @@
+div.contenedora {
+    display: flex;
+    flex-direction: column;
+}
+
+div.cabecera {
+    background-color: aliceblue;
+    text-align: center;
+    padding: 2px;
+    border: solid 1px black;
+}
+
+div.contenedora2 {
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div.izq {
+    background-color:rgb(132, 208, 205);
+    width: 75%;
+    border: solid 1px black;
+    padding-left: 10px;
+}
+
+div.der {
+    background-color: rgb(208, 81, 107);
+    width: 25%;
+    border: solid 1px black;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+div.footer {
+    background-color:greenyellow;
+    border: solid 1px black;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}

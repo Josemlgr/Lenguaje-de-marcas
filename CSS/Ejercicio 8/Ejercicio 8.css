@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+}
+
+p.Par1 {
+    border:solid 5px black;
+    color:cadetblue;
+    background-color: blanchedalmond;
+    margin: 0;
+    padding: 0px;
+}
+
+p.Par2 {
+    border:solid 5px black;
+    color:crimson;
+    background-color: lightpink;
+    margin: 5px;
+    padding: 5px;
+}
+
+p.Par3 {
+    border:solid 5px black;
+    color:rgb(51, 51, 51);
+    background-color:rgb(201, 222, 212);
+    margin: 0px;
+    padding: 20px;
+}
