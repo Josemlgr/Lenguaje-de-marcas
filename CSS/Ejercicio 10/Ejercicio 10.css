@@ -1,0 +1,37 @@
+div {
+    text-transform: capitalize;
+    text-indent: 30px;
+}
+
+p.uno {
+    width: 100%;
+    line-height: 40px;
+    font-style: oblique;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: aquamarine;
+    text-shadow: 1px 1px black;
+}
+
+p.dos {
+    width: 75%;
+    line-height: 20px;
+    font-style: italic;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: right;
+    color: crimson;
+    text-shadow: 1px 1px black;
+}
+
+p.tres {
+    width: 50%;
+    line-height: 30px;
+    font-style: normal;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: darkorange;
+    text-shadow: 1px 1px black;
+}
