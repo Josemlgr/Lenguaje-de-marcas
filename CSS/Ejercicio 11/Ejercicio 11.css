@@ -1,0 +1,10 @@
+ol {
+    list-style-type: lower-roman;
+    list-style-position: outside;
+    text-indent: 10px;
+}
+
+ul {
+    list-style: inside url("icono.png");
+    width: 50%;
+}
