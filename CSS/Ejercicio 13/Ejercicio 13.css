@@ -1,0 +1,36 @@
+header{
+    width: 100%;
+    text-align: center;
+    background-color: red;
+    margin-top: 1em;
+    color: white;
+}
+.Barra{
+    width: 100%;
+    text-align: center;
+    background-color: beige;
+    margin-top: 0.5em;
+}
+
+li{
+    display: inline;
+    padding: 2em;
+}
+a:hover{
+    color:darkgray;
+}
+a{
+     text-decoration: none;
+     color: white;
+}
+.cuerpo{
+    overflow-y: scroll;
+    height: 100px;
+    background-color:wheat;
+    margin-top: 0.5em;
+    padding: 1em;
+}
+footer{
+    background-color:aquamarine;
+    margin-top: 1em;
+}
