@@ -1,0 +1,18 @@
+.Capa a{
+    width: 20%;
+    background-color:aquamarine;
+    text-align: center;
+    color: black;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+a:hover {
+    background-color:aqua;
+}
+
+a:visited {
+    color: blue;
+}
